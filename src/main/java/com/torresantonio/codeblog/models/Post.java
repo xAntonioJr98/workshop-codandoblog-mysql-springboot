@@ -1,4 +1,4 @@
-package com.torresantonio.codeblog.entities;
+package com.torresantonio.codeblog.models;
 
 import java.time.LocalDate;
 

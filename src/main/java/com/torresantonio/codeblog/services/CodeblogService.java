@@ -2,7 +2,7 @@ package com.torresantonio.codeblog.services;
 
 import java.util.List;
 
-import com.torresantonio.codeblog.entities.Post;
+import com.torresantonio.codeblog.models.Post;
 
 public interface CodeblogService {
 	

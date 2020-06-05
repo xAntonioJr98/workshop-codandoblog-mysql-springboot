@@ -9,7 +9,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.torresantonio.codeblog.entities.Post;
+import com.torresantonio.codeblog.models.Post;
 import com.torresantonio.codeblog.repositories.CodeblogRepository;
 
 @Component
